@@ -7,7 +7,7 @@ jobs:
   build:
     working_directory: ~/aoc2020
     docker:
-      - image: circleci/openjdk:11-jdk
+      - image: circleci/openjdk:14-jdk-buster
     environment:
       # Disable Kotlin compiler daemon - https://discuss.kotlinlang.org/t/solved-disable-kotlin-compiler-process-keepalive/2622
       GRADLE_OPTS: -Dkotlin.compiler.execution.strategy="in-process"
