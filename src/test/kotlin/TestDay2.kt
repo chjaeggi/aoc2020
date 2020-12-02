@@ -1,20 +1,18 @@
 import chjaeggi.Day1
+import chjaeggi.Day2
 import org.junit.Test
 import kotlin.test.assertEquals
 
-class TestDay1 {
+class TestDay2 {
 
     @Test
     fun `Assert correct output part1`() {
         assertEquals(
-            514_579, Day1(
+            2, Day2(
                 listOf(
-                    1721,
-                    979,
-                    366,
-                    299,
-                    675,
-                    1456
+                    "1-3 a: abcde",
+                    "1-3 b: cdefg",
+                    "2-9 c: ccccccccc",
                 )
             ).solvePart1()
         )
@@ -23,11 +21,11 @@ class TestDay1 {
     @Test
     fun `Assert correct output part2`() {
         assertEquals(
-            2_418_61_950, Day1(
+            1, Day2(
                 listOf(
-                    979,
-                    366,
-                    675,
+                    "1-3 a: abcde",
+                    "1-3 b: cdefg",
+                    "2-9 c: ccccccccc",
                 )
             ).solvePart2()
         )

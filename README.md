@@ -13,8 +13,8 @@ His repos are always very inspirational!
 #### Daily Solution Index for 2020
 |   Day   | Title                                         |  Links                                       |
 | --------|-----------------------------------------------|--------------------------------------------- |
-|    1    |            | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day1.kt) [\[AoC\]](https://adventofcode.com/2020/day/1) |
-|    2    |            |      |
+|    1    | Report Repair | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day1.kt) [\[AoC\]](http://adventofcode.com/2020/day/1) |
+|    2    | Password Philosophy | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day2.kt) [\[AoC\]](http://adventofcode.com/2020/day/2)|
 |    3    |            |      |
 |    4    |            |      |
 |    5    |            |      |
