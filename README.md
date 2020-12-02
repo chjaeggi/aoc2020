@@ -7,7 +7,7 @@ My solutions for [Advent of Code challenges 2020](https://adventofcode.com/) in 
 
 Copyright © 2020 by Christian Jaeggi.
 
-Before I start I want to give a big shout out to [Todd Ginsberg](https://github.com/tginsberg/advent-2019-kotlin) whose solutions are very concise as well as idiomatic to read.
+Before I start I want to give a big shout out to [Todd Ginsberg](https://github.com/tginsberg/advent-2020-kotlin) whose solutions are very concise as well as idiomatic to read.
 His repos are always very inspirational!
 
 #### Daily Solution Index for 2020
