@@ -15,7 +15,7 @@ His repos are always very inspirational!
 | --------|-----------------------------------------------|--------------------------------------------- |
 |    1    | Report Repair | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day1.kt) [\[AoC\]](http://adventofcode.com/2020/day/1) |
 |    2    | Password Philosophy | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day2.kt) [\[AoC\]](http://adventofcode.com/2020/day/2)|
-|    3    |            |      |
+|    3    | Toboggan Trajectory | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day3.kt) [\[AoC\]](http://adventofcode.com/2020/day/3)|
 |    4    |            |      |
 |    5    |            |      |
 |    6    |            |      |
