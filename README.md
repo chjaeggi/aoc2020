@@ -17,24 +17,4 @@ His repos are always very inspirational!
 |    2    | Password Philosophy | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day2.kt) [\[AoC\]](http://adventofcode.com/2020/day/2)|
 |    3    | Toboggan Trajectory | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day3.kt) [\[AoC\]](http://adventofcode.com/2020/day/3)|
 |    4    | Passport Processing | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day4.kt) [\[AoC\]](http://adventofcode.com/2020/day/4)|
-|    5    |            |      |
-|    6    |            |      |
-|    7    |            |      |
-|    8    |            |      |
-|    9    |            |      |
-|    10   |            |      |
-|    11   |            |      |
-|    12   |            |      |
-|    13   |            |      |
-|    14   |            |      |
-|    15   |            |      |
-|    16   |            |      |
-|    17   |            |      |
-|    18   |            |      |
-|    19   |            |      |
-|    20   |            |      |
-|    21   |            |      |
-|    22   |            |      |
-|    23   |            |      |
-|    24   |            |      |
-|    25   |            |      |
+|    5    | Binary Boarding | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day5.kt) [\[AoC\]](http://adventofcode.com/2020/day/5)|
