@@ -1,6 +1,6 @@
 package chjaeggi
 
 fun main(args: Array<String>) {
-    val day = Day5(Resources.resourceAsList("input5.txt")).solvePart2()
+    val day = Day6(Resources.resourceAsText("input6.txt")).solvePart2()
     println("Done: $day")
 }

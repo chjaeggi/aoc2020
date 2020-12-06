@@ -18,3 +18,4 @@ His repos are always very inspirational!
 |    3    | Toboggan Trajectory | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day3.kt) [\[AoC\]](http://adventofcode.com/2020/day/3)|
 |    4    | Passport Processing | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day4.kt) [\[AoC\]](http://adventofcode.com/2020/day/4)|
 |    5    | Binary Boarding | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day5.kt) [\[AoC\]](http://adventofcode.com/2020/day/5)|
+|    6    | Custom Customs | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day6.kt) [\[AoC\]](http://adventofcode.com/2020/day/6)|
