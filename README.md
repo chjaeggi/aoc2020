@@ -20,3 +20,4 @@ His repos are always very inspirational!
 |    5    | Binary Boarding | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day5.kt) [\[AoC\]](http://adventofcode.com/2020/day/5)|
 |    6    | Custom Customs | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day6.kt) [\[AoC\]](http://adventofcode.com/2020/day/6)|
 |    7    | Handy Haversacks | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day7.kt) [\[AoC\]](http://adventofcode.com/2020/day/7)|
+|    8    | Handheld Halting | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day8.kt) [\[AoC\]](http://adventofcode.com/2020/day/8)|
