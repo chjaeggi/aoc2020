@@ -1,6 +1,7 @@
 package chjaeggi
 
 import java.io.File
+import java.math.BigInteger
 import java.net.URI
 
 internal object Resources {
@@ -12,6 +13,12 @@ internal object Resources {
 
     fun resourceAsListOfInt(fileName: String): List<Int> =
         resourceAsList(fileName).map { it.toInt() }
+
+    fun resourceAsListOfLong(fileName: String): List<Long> =
+        resourceAsList(fileName).map { it.toLong() }
+
+    fun resourceAsListOfBigInt(fileName: String): List<BigInteger> =
+        resourceAsList(fileName).map { it.toBigInteger() }
 
     fun resourceAsText(fileName: String): String =
         File(fileName.toURI()).readText()
