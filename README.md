@@ -22,3 +22,6 @@ His repos are always very inspirational!
 |    7    | Handy Haversacks | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day7.kt) [\[AoC\]](http://adventofcode.com/2020/day/7)|
 |    8    | Handheld Halting | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day8.kt) [\[AoC\]](http://adventofcode.com/2020/day/8)|
 |    9    | Encoding Error | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day9.kt) [\[AoC\]](http://adventofcode.com/2020/day/9)|
+|    10   | Adapter Array | [\[Code\]](https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day10.kt) [\[AoC\]](http://adventofcode.com/2020/day/10)|
+
+[comment]: <> (|    11   | Seating System | [\[Code\]]&#40;https://github.com/chjaeggi/aoc2020/blob/master/src/main/kotlin/chjaeggi/Day11.kt&#41; [\[AoC\]]&#40;http://adventofcode.com/2020/day/11&#41;|)
